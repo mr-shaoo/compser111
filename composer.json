@@ -3,7 +3,7 @@
     "description": "ccccccccccccc",
     "type": "ddddddd",
     "require": {
-        "monolog/monolog": "*"
+        
     },
     "license": "sssss",
     "authors": [
