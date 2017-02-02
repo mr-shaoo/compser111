@@ -1,0 +1,16 @@
+{
+    "name": "shaozhihui/compser111",
+    "description": "ccccccccccccc",
+    "type": "ddddddd",
+    "require": {
+        "monolog/monolog": "*"
+    },
+    "license": "sssss",
+    "authors": [
+        {
+            "name": "shaozhihui",
+            "email": "812572044@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
